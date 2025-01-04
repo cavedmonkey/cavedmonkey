@@ -1,6 +1,6 @@
 <div align="center">
 
-👨‍💻 Check out my personal website [LINK🔗](https://ruperth.me)!
+👨‍💻 Check out my personal website [LINK🔗](https://ruperthjr.me)!
 
 </div>
 
