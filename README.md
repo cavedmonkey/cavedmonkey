@@ -1,6 +1,6 @@
 <div align="center">
 
-👨‍💻 Check out my personal website [LINK🔗](https://pathsonthego.vercel.app)!
+👨‍💻 Check out my personal website [LINK🔗](https://ruperth.me)!
 
 </div>
 
