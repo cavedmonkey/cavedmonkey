@@ -47,8 +47,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BetterWorldBetterPlace&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BetterWorldBetterPlace&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pathsonthego&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathsonthego&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ###
