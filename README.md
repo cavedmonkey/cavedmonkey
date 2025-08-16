@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/happylucktoday/happylucktoday/output/snake.svg" alt="Coding snake" />
+  <img src="https://raw.githubusercontent.com/BetterWorldBetterPlace/BetterWorldBetterPlace/output/snake.svg alt="Coding snake" />
 </div>
 
 ###
