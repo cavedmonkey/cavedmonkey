@@ -1,11 +1,5 @@
 ###
 
-<div align="center">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/Pn76Hxo"><a href="//imgur.com/a/Pn76Hxo">HOW DO I CODE?????</a></blockquote>
-</div>
-
-###
-
 > "panana 🍌 panana 🍌"  
 
 ### 🔧 Tech Arsenal
@@ -36,12 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub Actions" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" title="Redis" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pathsontheg/pathsonthego/output/snake.svg" />
 </div>
 
 ###
