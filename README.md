@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDd4dWl2b2R0M3B5d2Y5bG5veDd1Y2F0eGx2d2Q0d2Z0bXU0bHl5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ICOgUNjpvO0PC/giphy.gif" alt="Banana coder" />
+  <img height="350" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Banana coder" />
 </div>
 
 ###
