@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Banana coder" />
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/Pn76Hxo"><a href="//imgur.com/a/Pn76Hxo">HOW DO I CODE?????</a></blockquote>
 </div>
 
 ###
