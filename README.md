@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! Ruperth Nyagesoa Here 🍌</h2>
-
 ###
 
 <div align="center">
@@ -8,12 +6,7 @@
 
 ###
 
-> "🍌 panana 🍌 panana"  
-> *Turning setbacks into microservices since 2022*
-
-### 🚀 Startup Founder & Full-Stack Architect
-**Equishift** · Nairobi, Kenya · *2024-Present*  
-Building high-performance platforms with `FastAPI` + `PostgreSQL` + `Redis` · DevOps champion · Mentor  
+> "panana 🍌 panana 🍌"  
 
 ### 🔧 Tech Arsenal
 <div align="left">
@@ -47,21 +40,6 @@ Building high-performance platforms with `FastAPI` + `PostgreSQL` + `Redis` · D
 
 ###
 
-### 🔥 Performance Wins
-- **100ms API responses** with microservice optimization  
-- **30% faster delivery** via reusable component library  
-- **95% PR acceptance** through mentorship programs  
-- **80% deployment automation** with CI/CD pipelines  
-
-### 🏆 Projects Spotlight
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| [Equishift](pathsonthego.vercel.app) | FastAPI/React/PostgreSQL | Microservices • DevOps • CI/CD |
-| Campus Connect | Django/WebSockets | Real-time chat • RBAC • Heroku |
-| Flutter Food App | Flutter/Firebase | Geolocation • Payments • Push |
-
-<br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/happylucktoday/happylucktoday/output/snake.svg" alt="Coding snake" />
 </div>
@@ -79,10 +57,7 @@ Building high-performance platforms with `FastAPI` + `PostgreSQL` + `Redis` · D
   <a href="https://linkedin.com/in/ruperth-nyagesoa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin"  />
   </a>
-  <a href="mailto:iamnyagesoa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail"  />
-  </a>
-  <a href="pathsonthego.vercel.app" target="_blank">
+  <a href="https://ruperthjr.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="25" alt="portfolio" />
   </a>
 </div>
