@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pathsonthego/pathsonthego/output/snake.svg alt="Coding snake" />
+  <img src="https://raw.githubusercontent.com/pathsontheg/pathsonthego/output/snake.svg" />
 </div>
 
 ###
