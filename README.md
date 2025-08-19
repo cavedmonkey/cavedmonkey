@@ -1,8 +1,4 @@
-###
-
-> "panana 🍌 panana 🍌"  
-
-### Tech Arsenal
+### Tech Stark
 <div align="left">
   <!-- Core Stack -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
