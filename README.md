@@ -29,13 +29,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pathsonthego&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathsonthego&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
-###
-
-<div align="center">
   <a href="https://linkedin.com/in/ruperth-nyagesoa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin"  />
   </a>
