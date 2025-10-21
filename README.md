@@ -1,4 +1,3 @@
-### Tech Stack
 <div align="center">
   <!-- Frontend -->
   <img width="12" /> 
