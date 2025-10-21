@@ -1,4 +1,4 @@
-considering the above changes now make my readme special to be updated and well visualised!!; ### Tech Stack
+### Tech Stack
 <div align="left">
   <!-- Frontend -->
   <img width="12" /> 
